@@ -6,3 +6,4 @@ cheating.hackmysoftware.ru:7228
 46.174.53.104:7777
 176.32.39.28:7777
 46.174.53.190:7777
+samp.training-server.com:7777
