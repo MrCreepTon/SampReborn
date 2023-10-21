@@ -7,3 +7,4 @@ cheating.hackmysoftware.ru:7228
 176.32.39.28:7777
 46.174.53.190:7777
 samp.training-server.com:7777
+51.83.189.15:7777
