@@ -5,7 +5,6 @@ cheating.hackmysoftware.ru:7228
 46.174.52.144:7777
 samp.training-server.com:7777
 s1.galaxy-rpg.online:7777
-185.71.66.86:7777
 194.147.32.43:7777
 80.66.71.87:7777
 217.106.106.36:7777
